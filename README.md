@@ -1,7 +1,7 @@
 ### Hey there, it's `N0g4D` here.
 
 
-I'm a C.S. student really enthusiast about cybersecurity and new blockchain-based technologies. 
+I'm a C.S. student really enthusiast about cybersecurity and new blockchain-based technologies. <br>
 It's not much, but it's honest work :)
 
 ### What I'm currently learning:
