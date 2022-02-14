@@ -1,17 +1,17 @@
-### My name is `Alessio Malerba`.
+### Hey there, it's `N0g4D` here.
 
-📚 information system student at UFPI.
+📚 information system student.
 
-Just I'm a S.I academic at UFPI, who likes anime and enthusiastic about technology, but really lazy.
+I'm a C.S. student really enthusiast about cybersecurity and new blockchain-based technologies. It's not much, but it's honest work :)
 `¯\_(ツ)_/¯`
 
 ### What I'm currently learning:
 
+<img src="https://iconape.com/wp-content/png_logo_vector/solidity.png" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35px">&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 
 ## My activities
