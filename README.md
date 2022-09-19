@@ -1,8 +1,8 @@
 ### Hey there, it's `N0g4D` here.
 
 
-I'm Alessio Malerba, a C.S. student very enthusiast about cybersecurity and new blockchain-based technologies. <br>
-I really enjoy learning languages and frameworks, like Solidity and Truffle. I also enjoy a lot CTFs, especially the puzzles based on Smart Contracts, such as the ones at https://ethernaut.openzeppelin.com/. <br>
+I'm Alessio Malerba, a C.S. student very enthusiast about cybersecurity and new blockchain-based technologies. <br><br>
+I really enjoy learning languages and frameworks, like Solidity and Truffle. I also enjoy a lot CTFs, especially the puzzles based on Smart Contracts, such as the ones at https://ethernaut.openzeppelin.com/. <br><br>
 I atually prefer Python for almost any type of script that I have in my mind, but I have often worked with C++ and Java, especially for the University.
 `It's not much, but it's honest work :)`
 
