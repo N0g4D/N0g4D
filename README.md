@@ -1,7 +1,8 @@
 ### Hey there, it's `N0g4D` here.
 
 
-I'm a C.S. student really enthusiast about cybersecurity and new blockchain-based technologies. <br>
+I'm Alessio Malerba, a C.S. student very enthusiast about cybersecurity and new blockchain-based technologies. <br>
+I really enjoy learning languages and frameworks, like Solidity and Truffle. I also enjoy a lot CTFs, especially the puzzles based on Smart Contracts, such as the ones in https://ethernaut.openzeppelin.com/ <br>
 It's not much, but it's honest work :)
 
 ### What I'm currently learning:
