@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alessio Malerba
 
-🚀 **Power Platform Architect | Azure & .NET Developer | Freelance Consultant**
+🚀 **Power Platform Architect | Azure & .NET Developer | MS Consultant**
 
 I design and build enterprise-grade solutions on **Microsoft Power Platform**, combining **Power Apps, Power Automate, and Dataverse** with **Azure and .NET** services to deliver scalable and intelligent automation.  
 I work remotely with companies that want to bring **software engineering discipline into the low-code world**.
@@ -9,10 +9,10 @@ I work remotely with companies that want to bring **software engineering discipl
 
 ## 🧩 Core Tech Stack
 
-- Power Platform (Power Apps, Power Automate, Power BI, Power Pages, Power Virtual Agents)  
-- Azure Functions, Logic Apps, API Management  
+- Power Platform (Power Apps, Power Automate, Power Pages, Power BI)  
+- API Management, Azure Functions, Logic Apps  
 - Dataverse, Microsoft Graph, C# Plug-ins, PCF Components  
-- GitHub Actions, Docker, PowerShell, .NET 8  
+- Kubernetes, GitHub Actions, PowerShell, .NET 8  
 
 ---
 
