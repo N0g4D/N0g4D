@@ -22,7 +22,7 @@ I work remotely with companies that want to bring **software engineering discipl
    *Power Platform & Azure Solution Architect*  
 
 - **Power Platform Engineer – Cluster Reply**  
-   *Delivery on Power App, Power BI and Power Automate*  
+   *Delivery on Power Apps, Power BI and Power Automate*  
 
 - **Freelance – Smart Contract Engineer**  
    *Solidity, Ethereum, dApp integration, React/WordPress*
