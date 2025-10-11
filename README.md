@@ -18,14 +18,14 @@ I work remotely with companies that want to bring **software engineering discipl
 
 ## 💼 Professional Experience
 
-**IT Senior Consultant – Protiviti**  
-*Power Platform & Azure Solution Architect*  
+- **IT Senior Consultant – Protiviti**  
+   *Power Platform & Azure Solution Architect*  
 
-**Power Platform Engineer – Cluster Reply**  
-*Delivery on Power Pages, Power BI, Power Automate, and Virtual Agents*  
+- **Power Platform Engineer – Cluster Reply**  
+   *Delivery on Power Pages, Power BI, Power Automate, and Virtual Agents*  
 
-**Freelance – Smart Contract Engineer**  
-*Solidity, Ethereum, dApp integration, React/WordPress*
+- **Freelance – Smart Contract Engineer**  
+   *Solidity, Ethereum, dApp integration, React/WordPress*
 
 ---
 
