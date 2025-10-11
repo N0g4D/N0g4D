@@ -22,7 +22,7 @@ I work remotely with companies that want to bring **software engineering discipl
    *Power Platform & Azure Solution Architect*  
 
 - **Power Platform Engineer – Cluster Reply**  
-   *Delivery on Power Pages, Power BI, Power Automate, and Virtual Agents*  
+   *Delivery on Power App, Power BI and Power Automate*  
 
 - **Freelance – Smart Contract Engineer**  
    *Solidity, Ethereum, dApp integration, React/WordPress*
@@ -40,8 +40,7 @@ I work remotely with companies that want to bring **software engineering discipl
 
 📬 **Get in Touch**  
 ✉️ [alessiomalerba@hotmail.it](mailto:alessiomalerba@hotmail.it)  
-💼 [LinkedIn](https://linkedin.com/in/alessiomalerba)  
-🌐 [GitHub](https://github.com/n0g4d)
+💼 [LinkedIn](https://www.linkedin.com/in/alessio-malerba-969088204/)  
 
 ---
 
