@@ -10,7 +10,7 @@ Currently operating as an **Independent Consultant**, I help B2B organizations (
 
 ## 🛠️ What I'm Currently Building & Researching
 
-- 🔐 **Ancorhash 2.0:** Developing a zero-data-leakage notarization middleware for the Power Platform. Integrating **React PCF components** (client-side SHA-256 hashing) with **Azure Functions (.NET 8 Serverless)** and decentralized ledgers (Polygon) to guarantee audit trails without GDPR risks.
+- 🔐 **Ancorhash 2.0:** Developing a zero-data-leakage notarization middleware for the Power Platform. Integrating **React PCF components** (client-side SHA-256 hashing) with **Azure Functions (.NET 10 Serverless)** and decentralized ledgers (Polygon) to guarantee audit trails without GDPR risks.
 - 🤖 **AI Token FinOps:** Researching and optimizing API token consumption for Enterprise AI (Azure OpenAI & Copilot Studio) via prompt caching and agentic workflows.
 - ⚙️ **Enterprise ALM:** Enforcing strict CI/CD pipelines for Power Platform via GitHub Actions and Azure DevOps.
 
