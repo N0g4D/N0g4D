@@ -60,7 +60,7 @@ Two integrations for [Omega](https://github.com/singnet/Omega), SingularityNET's
 
 📬 **Get in Touch**<br>
 ✉️ [info@alessiomalerba.it](mailto:info@alessiomalerba.it)<br>
-💼 [LinkedIn](https://www.linkedin.com/in/alessio-malerba-969088204/)
+💼 [LinkedIn](https://www.linkedin.com/in/alessiomalerba-tech/)
 
 ---
 
