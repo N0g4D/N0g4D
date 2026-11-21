@@ -64,4 +64,4 @@ Two integrations for [Omega](https://github.com/singnet/Omega), SingularityNET's
 
 ---
 
-> *"Low-code doesn’t replace development — it enhances it. Architecture governs them both."*
+> *"Automate what you can verify. Put a person in front of everything else."*
